@@ -18,3 +18,4 @@ public class CalculatorService {
         return n / (double) g;
     }
 }
+
